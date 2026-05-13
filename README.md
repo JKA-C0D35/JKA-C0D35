@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**JKA-C0D35/JKA-C0D35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> BOOTING PROFILE...
+>
+> [IDENTITY]
+> Hello 👋 I'm JKA-C0D35
+>
+> [ROLE]
+> Python Developer ⚙️
+>  Backend Developer (In Progress) 💻
+> Cybersecurity Developer | Ethical Hacking Enthusiast 🔐
+>
+> [MISSION]
+> Building tools • Breaking limits • Learning systems 🚀
+>
+> [STATUS]
+> Always learning. Always improving. Always building 💡
+>
+> > SYSTEM READY...
